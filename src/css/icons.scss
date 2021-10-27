@@ -1,0 +1,64 @@
+.align-center{
+  align-items: center;
+}
+.user_alt{
+  background-image: url("../statics/User_cicrle.svg");
+  width: 30px;
+  height: 30px;
+}
+.star_alt{
+  background-image: url("../statics/Star.svg");
+  width: 30px;
+  height: 30px;
+}
+.bell_alt{
+  position: relative;
+  background-image: url("../statics/Bell.svg");
+  width: 30px;
+  height: 30px;
+  .q-badge{
+    padding: 2px 5px;
+    border-radius: 50%;
+  }
+}
+.bag_alt{
+  background-image: url("../statics/Bag_alt.svg");
+  width: 30px;
+  height: 30px;
+}
+.dashboard_alt{
+  background-image: url("../statics/darhboard_alt.svg");
+  width: 30px;
+  height: 30px;
+}
+.time-progress{
+  background-image: url("../statics/Time_progress.svg");
+  width: 24px;
+  height: 24px;
+  margin-right: 6px;
+}
+.timer{
+  background-image: url("../statics/timer.svg");
+  width: 22px;
+  height: 24px;
+}
+.star-img{
+  background-image: url("../statics/Star 1.svg");
+  width: 24px;
+  height: 24px;
+}
+.coolicon{
+  background-image: url("../statics/coolicon.svg");
+  width: 22px;
+  height: 22px;
+}
+.check-ring-round{
+  background-image: url("../statics/check_ring_round.svg");
+  width: 24px;
+  height: 24px;
+}
+.sing-in-circle{
+  background-image: url("../statics/Sign_in_circle.svg");
+  width: 19px;
+  height: 19px;
+}
